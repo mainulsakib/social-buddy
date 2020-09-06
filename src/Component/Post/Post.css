@@ -1,0 +1,12 @@
+.card{
+    float: left;
+    width: 300px;
+    height:350px;
+    margin:50px;
+  
+    padding: 10px;
+}
+#link{
+    text-decoration: none;
+    color: aliceblue;
+}
